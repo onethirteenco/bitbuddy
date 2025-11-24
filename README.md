@@ -2,7 +2,7 @@
 ### Your drives. _At a glance._
 
 > [!Important]  
-> The latest version of Bit Buddy, Version 2.1 (released October 14, 2024), may result in your previously saved information being erased. We apologize for the inconvenience this has caused (both times).
+> As of 11/24/2025, this GitHub Repository is no longer being maintained or updated by One Thirteen. All updates regarding Bit Buddy's development moving forward will now be available from [One Thirteen's website](https://onethirteen.co/apps/bit-buddy).
 
 Easily add, view, and manage your external and network-attached devices with Bit Buddy!
 
